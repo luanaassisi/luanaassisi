@@ -20,6 +20,6 @@
   
    ![snake.svg](https://github.com/luanaassisi/luanaassisi/blob/output/github-contribution-grid-snake.svg)
    
-   <i>"Em primeiro lugar vem a dedicação, depois a habilidade."</i>
+  
    
    ##
