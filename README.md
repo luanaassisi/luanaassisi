@@ -4,7 +4,7 @@
 - 😄 Pronomes: Ela/Dela
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanaassisi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=12qvhre7f9y2i&utm_content=ebcb4b)
+
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanaassisi&hide=contribs,prs=true&theme=dracula&show_icons=true)
 
